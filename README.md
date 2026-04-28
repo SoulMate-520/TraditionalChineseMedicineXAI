@@ -1,2 +1,3 @@
 # TraditionalChineseMedicineXAI
 中医xAI学习
+使用traecli或Claude工作流基于中医典籍来学习中医
